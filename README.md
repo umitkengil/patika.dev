@@ -1,1 +1,1 @@
-# patika.dev-veri  yapilari 
+# patika.dev Ödevleri
